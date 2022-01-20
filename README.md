@@ -5,7 +5,7 @@ This is a basic demo showing one way you could model users that can be assigned 
 ## Getting Started
 
 ```bash
-$ git clone TODO
+$ git clone https://github.com/simonprickett/redis-om-python-users-tasks.git
 $ docker-compose up -d
 $ python3 -m venv venv
 $ . ./venv/bin/activate
